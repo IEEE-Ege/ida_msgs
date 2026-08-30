@@ -1,0 +1,2 @@
+# ida_msgs is a pure ROS 2 interface (msg) package — no pip dependencies.
+# Build with colcon; resolve build deps with rosdep.
